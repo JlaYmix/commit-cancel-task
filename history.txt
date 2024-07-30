@@ -1,0 +1,5 @@
+0deb9a6 HEAD@{0}: revert: Revert "text2.txt bad file after function reset"
+539491f HEAD@{1}: commit: text2.txt bad file after function reset
+a0f3749 HEAD@{2}: reset: moving to a0f3749
+bf12568 HEAD@{3}: commit: text2.txt bad file
+a0f3749 HEAD@{4}: commit (initial): text.txt correct file
